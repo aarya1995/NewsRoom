@@ -1,0 +1,1 @@
+NewsRoom is a social media news aggregator website that will allow users to browse interesting news articles, as well as like, share, and discuss them with friends. The data for the prototype is being pulled from BBC.
