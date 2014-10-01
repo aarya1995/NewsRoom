@@ -11,3 +11,17 @@
  *= require_self
  *= require_tree .
  */
+
+* {
+	font-family:arial;
+}
+
+
+p {
+	font-size:15pt;
+}
+
+img {
+	width:450px;
+	height:auto;
+}
